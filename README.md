@@ -1,7 +1,8 @@
-#my first day on GitHub
+##my first day on GitHub
 
-## my-first-repo
+# my-first-repo
 example for 🐸 bo-web-23-4
 
 
-test
+I like lists:
+- 
